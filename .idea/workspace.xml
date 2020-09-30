@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="moving top navbar to the right [fix 4]">
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="testing something i saw on a random website for adding pics 2">
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601445101255</updated>
-      <workItem from="1601445103546" duration="10216000" />
+      <workItem from="1601445103546" duration="10525000" />
     </task>
     <task id="LOCAL-00001" summary="uploading beginning structure of webpage">
       <created>1601445932413</created>
@@ -208,7 +208,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601485084933</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="testing to see if adding pictures is really this easy">
+      <created>1601485525369</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601485525369</updated>
+    </task>
+    <task id="LOCAL-00022" summary="testing something i saw on a random website for adding pics">
+      <created>1601485580610</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601485580610</updated>
+    </task>
+    <task id="LOCAL-00023" summary="testing something i saw on a random website for adding pics 2">
+      <created>1601485672183</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601485672183</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +267,10 @@
     <MESSAGE value="moving top navbar to the right [fix 2]" />
     <MESSAGE value="moving top navbar to the right [fix 3]" />
     <MESSAGE value="moving top navbar to the right [fix 4]" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving top navbar to the right [fix 4]" />
+    <MESSAGE value="testing to see if adding pictures is really this easy" />
+    <MESSAGE value="testing something i saw on a random website for adding pics" />
+    <MESSAGE value="testing something i saw on a random website for adding pics 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing something i saw on a random website for adding pics 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -261,10 +285,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601485085610">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601485672789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601485085610" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601485672789" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
