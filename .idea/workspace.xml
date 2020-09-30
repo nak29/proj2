@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="changed title color to match and removed some text" />
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="about page fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601445101255</updated>
       <workItem from="1601445103546" duration="14296000" />
+      <workItem from="1601496981952" duration="395000" />
     </task>
     <task id="LOCAL-00001" summary="uploading beginning structure of webpage">
       <created>1601445932413</created>
@@ -388,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601493120139</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="about page fixed">
+      <created>1601497086693</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1601497086693</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +415,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testing something i saw on a random website for adding pics" />
     <MESSAGE value="testing something i saw on a random website for adding pics 2" />
     <MESSAGE value="both pics working, now to size them" />
     <MESSAGE value="both pics working, now to size them 2" />
@@ -432,7 +439,8 @@
     <MESSAGE value="fixing image size 3" />
     <MESSAGE value="fixing image size 4" />
     <MESSAGE value="changed title color to match and removed some text" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed title color to match and removed some text" />
+    <MESSAGE value="about page fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="about page fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -448,10 +456,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601493121702">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601497094687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601493121702" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601497094687" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
