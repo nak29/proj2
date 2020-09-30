@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="adding linkedin to button">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="fixing image size 2">
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -349,7 +348,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601488929290</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="adding image to about page">
+      <created>1601492548143</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1601492548143</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fixing image size">
+      <created>1601492652757</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1601492652757</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fixing image size 2">
+      <created>1601492716056</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1601492716056</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,9 +388,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="moving top navbar to the right" />
-    <MESSAGE value="moving top navbar to the right [fix]" />
-    <MESSAGE value="moving top navbar to the right [fix 2]" />
     <MESSAGE value="moving top navbar to the right [fix 3]" />
     <MESSAGE value="moving top navbar to the right [fix 4]" />
     <MESSAGE value="testing to see if adding pictures is really this easy" />
@@ -393,7 +410,10 @@
     <MESSAGE value="testing how the card would look without text" />
     <MESSAGE value="moving a lot of stuff and hopefully it's together" />
     <MESSAGE value="adding linkedin to button" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding linkedin to button" />
+    <MESSAGE value="adding image to about page" />
+    <MESSAGE value="fixing image size" />
+    <MESSAGE value="fixing image size 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing image size 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -408,10 +428,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601488929858">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601492717411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601488929858" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601492717411" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
