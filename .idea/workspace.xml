@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="fixed the spacing of our names">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="changing spans to p's">
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601445101255</updated>
-      <workItem from="1601445103546" duration="7660000" />
+      <workItem from="1601445103546" duration="7978000" />
     </task>
     <task id="LOCAL-00001" summary="uploading beginning structure of webpage">
       <created>1601445932413</created>
@@ -111,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601451427867</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changing header color (?)">
+      <created>1601483026796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601483026796</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changing spans to p's">
+      <created>1601483133894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601483133894</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +148,9 @@
     <MESSAGE value="making most of the pages look like each other because i have no idea how to customize the pages to make them look different and i can't find anything on canvas that helps me understand bootstrap" />
     <MESSAGE value="Trying to get used to bootstrap, adding a label with our names on it" />
     <MESSAGE value="fixed the spacing of our names" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed the spacing of our names" />
+    <MESSAGE value="changing header color (?)" />
+    <MESSAGE value="changing spans to p's" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing spans to p's" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -150,11 +165,15 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601451428962">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601483134670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601451428962" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601483134670" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
+    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601483016444" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601446294386">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
