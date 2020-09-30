@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="once again fixing how the page looks, colors mostly" />
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="moving picture down, about to move on to new branch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="aboutPage" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,14 +69,7 @@
       <updated>1601445101255</updated>
       <workItem from="1601445103546" duration="14296000" />
       <workItem from="1601496981952" duration="395000" />
-      <workItem from="1601497611823" duration="958000" />
-    </task>
-    <task id="LOCAL-00004" summary="making most of the pages look like each other because i have no idea how to customize the pages to make them look different and i can't find anything on canvas that helps me understand bootstrap">
-      <created>1601449721603</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1601449721603</updated>
+      <workItem from="1601497611823" duration="1941000" />
     </task>
     <task id="LOCAL-00005" summary="Trying to get used to bootstrap, adding a label with our names on it">
       <created>1601451348467</created>
@@ -412,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601498511641</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="moving picture down, about to move on to new branch">
+      <created>1601498653083</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1601498653083</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +433,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="trying to get text nicely against pics 2" />
     <MESSAGE value="trying to get text nicely against pics 3" />
     <MESSAGE value="trying to get text nicely against pics 4" />
     <MESSAGE value="trying to get text nicely against pics 4 [testing]" />
@@ -456,7 +457,8 @@
     <MESSAGE value="image fixing again" />
     <MESSAGE value="fixing team html because github branches aren't helpful when you're working separately" />
     <MESSAGE value="once again fixing how the page looks, colors mostly" />
-    <option name="LAST_COMMIT_MESSAGE" value="once again fixing how the page looks, colors mostly" />
+    <MESSAGE value="moving picture down, about to move on to new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="moving picture down, about to move on to new branch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -476,10 +478,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498004676" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601498512695">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601498654418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498512695" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498654418" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
