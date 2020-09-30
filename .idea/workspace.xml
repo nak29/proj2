@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="trying to get text nicely against pics">
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="trying to get text nicely against pics 3">
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601445101255</updated>
-      <workItem from="1601445103546" duration="11284000" />
+      <workItem from="1601445103546" duration="11729000" />
     </task>
     <task id="LOCAL-00001" summary="uploading beginning structure of webpage">
       <created>1601445932413</created>
@@ -257,7 +257,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601486412213</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="trying to get text nicely against pics 2">
+      <created>1601486653989</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601486653989</updated>
+    </task>
+    <task id="LOCAL-00029" summary="trying to get text nicely against pics 3">
+      <created>1601486714702</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1601486714702</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,8 +289,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changing title to History of the Internet instead of Internet History&#10;&#10;and here is the part where i mess up &quot;branches&quot;" />
-    <MESSAGE value="making most of the pages look like each other because i have no idea how to customize the pages to make them look different and i can't find anything on canvas that helps me understand bootstrap" />
     <MESSAGE value="Trying to get used to bootstrap, adding a label with our names on it" />
     <MESSAGE value="fixed the spacing of our names" />
     <MESSAGE value="changing header color (?)" />
@@ -300,7 +312,9 @@
     <MESSAGE value="both pics working, now to size them 2" />
     <MESSAGE value="both pics working, now to size them 3, they won't be next to text" />
     <MESSAGE value="trying to get text nicely against pics" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to get text nicely against pics" />
+    <MESSAGE value="trying to get text nicely against pics 2" />
+    <MESSAGE value="trying to get text nicely against pics 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to get text nicely against pics 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -315,10 +329,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601486413832">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601486715473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601486413832" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601486715473" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
