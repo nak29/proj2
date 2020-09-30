@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="testing something i saw on a random website for adding pics 2">
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="both pics working, now to size them 3, they won't be next to text">
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601445101255</updated>
-      <workItem from="1601445103546" duration="10525000" />
+      <workItem from="1601445103546" duration="10883000" />
     </task>
     <task id="LOCAL-00001" summary="uploading beginning structure of webpage">
       <created>1601445932413</created>
@@ -229,7 +229,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601485672183</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="both pics working, now to size them">
+      <created>1601485774229</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601485774229</updated>
+    </task>
+    <task id="LOCAL-00025" summary="both pics working, now to size them 2">
+      <created>1601485898517</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1601485898517</updated>
+    </task>
+    <task id="LOCAL-00026" summary="both pics working, now to size them 3, they won't be next to text">
+      <created>1601485960631</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1601485960631</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +268,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="uploading beginning structure of webpage" />
     <MESSAGE value="removing random bootstrap stuff that i thought would help" />
     <MESSAGE value="changing title to History of the Internet instead of Internet History&#10;&#10;and here is the part where i mess up &quot;branches&quot;" />
     <MESSAGE value="making most of the pages look like each other because i have no idea how to customize the pages to make them look different and i can't find anything on canvas that helps me understand bootstrap" />
@@ -270,7 +290,10 @@
     <MESSAGE value="testing to see if adding pictures is really this easy" />
     <MESSAGE value="testing something i saw on a random website for adding pics" />
     <MESSAGE value="testing something i saw on a random website for adding pics 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing something i saw on a random website for adding pics 2" />
+    <MESSAGE value="both pics working, now to size them" />
+    <MESSAGE value="both pics working, now to size them 2" />
+    <MESSAGE value="both pics working, now to size them 3, they won't be next to text" />
+    <option name="LAST_COMMIT_MESSAGE" value="both pics working, now to size them 3, they won't be next to text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -285,10 +308,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601485672789">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601485963844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601485672789" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601485963844" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
