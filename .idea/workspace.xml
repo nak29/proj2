@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="i think it's all fixed">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-    </list>
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="once again fixing how the page looks, colors mostly" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,28 +67,7 @@
       <updated>1601445101255</updated>
       <workItem from="1601445103546" duration="14296000" />
       <workItem from="1601496981952" duration="395000" />
-      <workItem from="1601497611823" duration="617000" />
-    </task>
-    <task id="LOCAL-00001" summary="uploading beginning structure of webpage">
-      <created>1601445932413</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1601445932413</updated>
-    </task>
-    <task id="LOCAL-00002" summary="removing random bootstrap stuff that i thought would help">
-      <created>1601446374602</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1601446374602</updated>
-    </task>
-    <task id="LOCAL-00003" summary="changing title to History of the Internet instead of Internet History&#10;&#10;and here is the part where i mess up &quot;branches&quot;">
-      <created>1601448038709</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1601448038709</updated>
+      <workItem from="1601497611823" duration="958000" />
     </task>
     <task id="LOCAL-00004" summary="making most of the pages look like each other because i have no idea how to customize the pages to make them look different and i can't find anything on canvas that helps me understand bootstrap">
       <created>1601449721603</created>
@@ -407,7 +384,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601497932426</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="image fixing">
+      <created>1601498273949</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1601498273949</updated>
+    </task>
+    <task id="LOCAL-00050" summary="image fixing again">
+      <created>1601498323117</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1601498323118</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fixing team html because github branches aren't helpful when you're working separately">
+      <created>1601498430825</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1601498430825</updated>
+    </task>
+    <task id="LOCAL-00052" summary="once again fixing how the page looks, colors mostly">
+      <created>1601498511641</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1601498511641</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,10 +431,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="both pics working, now to size them" />
-    <MESSAGE value="both pics working, now to size them 2" />
-    <MESSAGE value="both pics working, now to size them 3, they won't be next to text" />
-    <MESSAGE value="trying to get text nicely against pics" />
     <MESSAGE value="trying to get text nicely against pics 2" />
     <MESSAGE value="trying to get text nicely against pics 3" />
     <MESSAGE value="trying to get text nicely against pics 4" />
@@ -451,7 +452,11 @@
     <MESSAGE value="changed title color to match and removed some text" />
     <MESSAGE value="about page fixed" />
     <MESSAGE value="i think it's all fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="i think it's all fixed" />
+    <MESSAGE value="image fixing" />
+    <MESSAGE value="image fixing again" />
+    <MESSAGE value="fixing team html because github branches aren't helpful when you're working separately" />
+    <MESSAGE value="once again fixing how the page looks, colors mostly" />
+    <option name="LAST_COMMIT_MESSAGE" value="once again fixing how the page looks, colors mostly" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -471,10 +476,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498004676" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601498042678">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601498512695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498042678" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498512695" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
