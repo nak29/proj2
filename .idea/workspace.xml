@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="trying to get text nicely against pics 3">
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="trying to get text nicely against pics 4 [revert test]">
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601445101255</updated>
-      <workItem from="1601445103546" duration="11729000" />
+      <workItem from="1601445103546" duration="12117000" />
     </task>
     <task id="LOCAL-00001" summary="uploading beginning structure of webpage">
       <created>1601445932413</created>
@@ -271,7 +271,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601486714702</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="trying to get text nicely against pics 4">
+      <created>1601486975315</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1601486975315</updated>
+    </task>
+    <task id="LOCAL-00031" summary="trying to get text nicely against pics 4 [testing]">
+      <created>1601487099714</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1601487099714</updated>
+    </task>
+    <task id="LOCAL-00032" summary="trying to get text nicely against pics 4 [revert test]">
+      <created>1601487138070</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1601487138070</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,9 +310,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Trying to get used to bootstrap, adding a label with our names on it" />
-    <MESSAGE value="fixed the spacing of our names" />
-    <MESSAGE value="changing header color (?)" />
     <MESSAGE value="changing spans to p's" />
     <MESSAGE value="this is all mostly changing colors and formatting" />
     <MESSAGE value="aligning sidebar text to the right" />
@@ -314,7 +332,10 @@
     <MESSAGE value="trying to get text nicely against pics" />
     <MESSAGE value="trying to get text nicely against pics 2" />
     <MESSAGE value="trying to get text nicely against pics 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to get text nicely against pics 3" />
+    <MESSAGE value="trying to get text nicely against pics 4" />
+    <MESSAGE value="trying to get text nicely against pics 4 [testing]" />
+    <MESSAGE value="trying to get text nicely against pics 4 [revert test]" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to get text nicely against pics 4 [revert test]" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -329,10 +350,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601486715473">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601487106924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601486715473" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601487106924" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
