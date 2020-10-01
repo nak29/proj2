@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="Title and menu fix">
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="minor pic error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc_com.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="internetPage" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +71,13 @@
       <workItem from="1601445103546" duration="14296000" />
       <workItem from="1601496981952" duration="395000" />
       <workItem from="1601497611823" duration="3870000" />
+    </task>
+    <task id="LOCAL-00022" summary="testing something i saw on a random website for adding pics">
+      <created>1601485580610</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601485580610</updated>
     </task>
     <task id="LOCAL-00023" summary="testing something i saw on a random website for adding pics 2">
       <created>1601485672183</created>
@@ -407,14 +415,7 @@
       <option name="project" value="LOCAL" />
       <updated>1601521956319</updated>
     </task>
-    <task id="LOCAL-00071" summary="Title and menu fix">
-      <created>1601523525886</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1601523525886</updated>
-    </task>
-    <option name="localTasksCounter" value="72" />
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,8 +458,8 @@
     <MESSAGE value="updating title of internet_search.html" />
     <MESSAGE value="updating title again ? and fixing menu" />
     <MESSAGE value="added text" />
-    <MESSAGE value="Title and menu fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Title and menu fix" />
+    <MESSAGE value="minor pic error" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor pic error" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -474,14 +475,14 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601445820386" />
-    <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog" timestamp="1601523417733">
+    <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog" timestamp="1601498004676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601523417733" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601523423553">
+    <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498004676" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601521957574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601523423553" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601521957574" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
