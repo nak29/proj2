@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="centered pic 2">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="making pic slimmer [?]" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,35 +67,7 @@
       <updated>1601445101255</updated>
       <workItem from="1601445103546" duration="14296000" />
       <workItem from="1601496981952" duration="395000" />
-      <workItem from="1601497611823" duration="3556000" />
-    </task>
-    <task id="LOCAL-00011" summary="aligning sidebar text to the right again">
-      <created>1601484064923</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1601484064923</updated>
-    </task>
-    <task id="LOCAL-00012" summary="making the pages look how the final should be, with our names on it and some different sample text to see how it looks">
-      <created>1601484331111</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1601484331111</updated>
-    </task>
-    <task id="LOCAL-00013" summary="changing which headers go where because size">
-      <created>1601484485778</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1601484485778</updated>
-    </task>
-    <task id="LOCAL-00014" summary="adding a break">
-      <created>1601484526661</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1601484526661</updated>
+      <workItem from="1601497611823" duration="3870000" />
     </task>
     <task id="LOCAL-00015" summary="adding aNother break">
       <created>1601484568559</created>
@@ -414,7 +384,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601519377027</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="centered pic 3 hopefully works this time">
+      <created>1601519436300</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519436300</updated>
+    </task>
+    <task id="LOCAL-00061" summary="centered pic 4">
+      <created>1601519511081</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519511081</updated>
+    </task>
+    <task id="LOCAL-00062" summary="centered pic 5">
+      <created>1601519618264</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519618264</updated>
+    </task>
+    <task id="LOCAL-00063" summary="making pic slimmer [?]">
+      <created>1601519722820</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519722820</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,10 +431,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="aligning h2 text to left because it should look better" />
-    <MESSAGE value="adding break" />
-    <MESSAGE value="different example text" />
-    <MESSAGE value="testing how the card would look without text" />
     <MESSAGE value="moving a lot of stuff and hopefully it's together" />
     <MESSAGE value="adding linkedin to button" />
     <MESSAGE value="adding image to about page" />
@@ -458,7 +452,11 @@
     <MESSAGE value="changed picture size" />
     <MESSAGE value="centered pic" />
     <MESSAGE value="centered pic 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="centered pic 2" />
+    <MESSAGE value="centered pic 3 hopefully works this time" />
+    <MESSAGE value="centered pic 4" />
+    <MESSAGE value="centered pic 5" />
+    <MESSAGE value="making pic slimmer [?]" />
+    <option name="LAST_COMMIT_MESSAGE" value="making pic slimmer [?]" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -478,10 +476,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498004676" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601519377950">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601519735098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601519377950" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601519735098" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
