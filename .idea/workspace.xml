@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="changing index.html a little bit, trying to be a little more unique with the layout x2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="centered pic 2">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,35 +69,7 @@
       <updated>1601445101255</updated>
       <workItem from="1601445103546" duration="14296000" />
       <workItem from="1601496981952" duration="395000" />
-      <workItem from="1601497611823" duration="3242000" />
-    </task>
-    <task id="LOCAL-00007" summary="changing header color (?)">
-      <created>1601483026796</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1601483026796</updated>
-    </task>
-    <task id="LOCAL-00008" summary="changing spans to p's">
-      <created>1601483133894</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1601483133894</updated>
-    </task>
-    <task id="LOCAL-00009" summary="this is all mostly changing colors and formatting">
-      <created>1601483241248</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1601483241248</updated>
-    </task>
-    <task id="LOCAL-00010" summary="aligning sidebar text to the right">
-      <created>1601484031493</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1601484031493</updated>
+      <workItem from="1601497611823" duration="3556000" />
     </task>
     <task id="LOCAL-00011" summary="aligning sidebar text to the right again">
       <created>1601484064923</created>
@@ -415,7 +386,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601507254599</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="added a picture at the bottom">
+      <created>1601519153260</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519153261</updated>
+    </task>
+    <task id="LOCAL-00057" summary="changed picture size">
+      <created>1601519240632</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519240632</updated>
+    </task>
+    <task id="LOCAL-00058" summary="centered pic">
+      <created>1601519276216</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519276216</updated>
+    </task>
+    <task id="LOCAL-00059" summary="centered pic 2">
+      <created>1601519377026</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1601519377027</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,10 +433,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="trying to get text nicely against pics 4 [testing]" />
-    <MESSAGE value="trying to get text nicely against pics 4 [revert test]" />
-    <MESSAGE value="trying cards instead" />
-    <MESSAGE value="getting rid of other sidebar" />
     <MESSAGE value="aligning h2 text to left because it should look better" />
     <MESSAGE value="adding break" />
     <MESSAGE value="different example text" />
@@ -459,7 +454,11 @@
     <MESSAGE value="moving picture down, about to move on to new branch" />
     <MESSAGE value="changing index.html a little bit, trying to be a little more unique with the layout" />
     <MESSAGE value="changing index.html a little bit, trying to be a little more unique with the layout x2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing index.html a little bit, trying to be a little more unique with the layout x2" />
+    <MESSAGE value="added a picture at the bottom" />
+    <MESSAGE value="changed picture size" />
+    <MESSAGE value="centered pic" />
+    <MESSAGE value="centered pic 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="centered pic 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -479,10 +478,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498004676" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601507255436">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601519377950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601507255436" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601519377950" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
