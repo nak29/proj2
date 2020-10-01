@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="moving picture down, about to move on to new branch">
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="changing index.html a little bit, trying to be a little more unique with the layout x2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,21 +70,7 @@
       <updated>1601445101255</updated>
       <workItem from="1601445103546" duration="14296000" />
       <workItem from="1601496981952" duration="395000" />
-      <workItem from="1601497611823" duration="1941000" />
-    </task>
-    <task id="LOCAL-00005" summary="Trying to get used to bootstrap, adding a label with our names on it">
-      <created>1601451348467</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1601451348467</updated>
-    </task>
-    <task id="LOCAL-00006" summary="fixed the spacing of our names">
-      <created>1601451427867</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1601451427867</updated>
+      <workItem from="1601497611823" duration="3242000" />
     </task>
     <task id="LOCAL-00007" summary="changing header color (?)">
       <created>1601483026796</created>
@@ -414,7 +401,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601498653083</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="changing index.html a little bit, trying to be a little more unique with the layout">
+      <created>1601507219040</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1601507219040</updated>
+    </task>
+    <task id="LOCAL-00055" summary="changing index.html a little bit, trying to be a little more unique with the layout x2">
+      <created>1601507254599</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1601507254599</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,8 +434,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="trying to get text nicely against pics 3" />
-    <MESSAGE value="trying to get text nicely against pics 4" />
     <MESSAGE value="trying to get text nicely against pics 4 [testing]" />
     <MESSAGE value="trying to get text nicely against pics 4 [revert test]" />
     <MESSAGE value="trying cards instead" />
@@ -458,7 +457,9 @@
     <MESSAGE value="fixing team html because github branches aren't helpful when you're working separately" />
     <MESSAGE value="once again fixing how the page looks, colors mostly" />
     <MESSAGE value="moving picture down, about to move on to new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving picture down, about to move on to new branch" />
+    <MESSAGE value="changing index.html a little bit, trying to be a little more unique with the layout" />
+    <MESSAGE value="changing index.html a little bit, trying to be a little more unique with the layout x2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing index.html a little bit, trying to be a little more unique with the layout x2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -478,10 +479,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498004676" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601498654418">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601507255436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498654418" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601507255436" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
