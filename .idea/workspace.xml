@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="made text the correct color and fixed the menu glitch">
-      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="peoplePage" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -479,15 +480,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601526251067" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601526428383">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601527618766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601526428383" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601527618766" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
-    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
+    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601527611461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601483016444" />
+    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601527611461" />
     <state x="802" y="432" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1601497715167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
