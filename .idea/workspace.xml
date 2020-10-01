@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="adding a border to stick it out">
-      <change beforePath="$PROJECT_DIR$/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/internet_search.html" afterDir="false" />
-    </list>
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="added text and picture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,13 +68,6 @@
       <workItem from="1601445103546" duration="14296000" />
       <workItem from="1601496981952" duration="395000" />
       <workItem from="1601497611823" duration="3870000" />
-    </task>
-    <task id="LOCAL-00019" summary="moving top navbar to the right [fix 3]">
-      <created>1601484989659</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1601484989659</updated>
     </task>
     <task id="LOCAL-00020" summary="moving top navbar to the right [fix 4]">
       <created>1601485084933</created>
@@ -414,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601520812044</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="added text and picture">
+      <created>1601523285670</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1601523285670</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +431,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixing image size 2" />
     <MESSAGE value="fixing image size 3" />
     <MESSAGE value="fixing image size 4" />
     <MESSAGE value="changed title color to match and removed some text" />
@@ -458,7 +455,8 @@
     <MESSAGE value="adding an image to browser wars" />
     <MESSAGE value="new picture, didn't like old one" />
     <MESSAGE value="adding a border to stick it out" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding a border to stick it out" />
+    <MESSAGE value="added text and picture" />
+    <option name="LAST_COMMIT_MESSAGE" value="added text and picture" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
@@ -478,10 +476,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="218" width="723" height="523" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601498004676" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601520977525">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601523287030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601520977525" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601523287030" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601446375779" />
     <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601483016444">
       <screen x="0" y="0" width="1920" height="1040" />
