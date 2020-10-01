@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="added text">
+    <list default="true" id="72134921-f3ed-43cb-a3e7-200aea6922f4" name="Default Changelist" comment="minor pic error">
       <change beforePath="$PROJECT_DIR$/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -433,7 +433,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed title color to match and removed some text" />
     <MESSAGE value="about page fixed" />
     <MESSAGE value="i think it's all fixed" />
     <MESSAGE value="image fixing" />
@@ -458,7 +457,8 @@
     <MESSAGE value="updating title of internet_search.html" />
     <MESSAGE value="updating title again ? and fixing menu" />
     <MESSAGE value="added text" />
-    <option name="LAST_COMMIT_MESSAGE" value="added text" />
+    <MESSAGE value="minor pic error" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor pic error" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Deployment" timestamp="1601445802429">
